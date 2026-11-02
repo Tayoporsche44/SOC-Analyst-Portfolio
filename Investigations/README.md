@@ -4,4 +4,4 @@ This section contains documented security investigations, forensic analysis, and
 
 ## Investigations
 
-- [The Planet's Prestige - Phishing Investigation](The-Planets-Prestige/README.md)
+- [The Planet's Prestige - Phishing Investigation](The-Planets-Prestige-Investigation-Report.pdf)

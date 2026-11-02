@@ -1,4 +1,4 @@
-# Tayo Porsche | SOC Analyst Portfolio
+# Tayo Francis | SOC Analyst Portfolio
 
 Aspiring SOC Analyst focused on defensive security, security monitoring, threat detection, and incident investigation.
 

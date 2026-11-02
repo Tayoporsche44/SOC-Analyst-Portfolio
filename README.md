@@ -36,6 +36,7 @@ I use hands-on cybersecurity labs and practical investigations to develop skills
 
 ### 1. The Planet's Prestige - Phishing Investigation
 Investigated a suspicious email, analysed email headers, identified sender spoofing, examined a disguised ZIP attachment, extracted indicators, and documented investigation findings.
+[View Investigation Report](https://github.com/Tayoporsche44/MYDFIR-Forge-Threat-Hunt-Portfolio/tree/main/Investigations/The-Planets-Prestige)
 
 **Focus:** Email Forensics | Phishing Analysis | IOC Identification
 
